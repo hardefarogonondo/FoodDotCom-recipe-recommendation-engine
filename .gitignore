@@ -3,3 +3,5 @@
 data/raw/RAW_interactions.csv
 data/raw/RAW_recipes.csv
 data/processed/df.pkl
+data/processed/test.pkl
+data/processed/train.pkl
