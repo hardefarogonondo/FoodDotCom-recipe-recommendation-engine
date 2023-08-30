@@ -4,7 +4,7 @@ import streamlit as st
 
 
 def get_available_users():
-    response = requests.get('http://127.0.0.1:8000/available_users')
+    response = requests.get('http://backend:8000/available_users')
     if response.status_code == 200:
         return response.json()["user_ids"]
     else:
@@ -12,7 +12,7 @@ def get_available_users():
 
 
 def get_user_data(user_id):
-    response = requests.get(f'http://127.0.0.1:8000/recommend/{user_id}')
+    response = requests.get(f'http://backend:8000/recommend/{user_id}')
     if response.status_code == 200:
         return response.json()
     else:
