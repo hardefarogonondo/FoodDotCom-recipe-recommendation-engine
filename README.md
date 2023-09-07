@@ -164,14 +164,18 @@ For more in-depth information, a detailed document describing the dataset is ava
 
 ## Medium Articles
 
-- [Recipe for Retention: How a Data-Driven Recommendation Engine is Spicing Up User Engagement for Food.com](https://medium.com/@hardefarogonondo/recipe-for-retention-how-a-data-driven-recommendation-engine-is-spicing-up-user-engagement-for-518fe347a3dd)
+[Recipe for Retention: How a Data-Driven Recommendation Engine is Spicing Up User Engagement for Food.com](https://medium.com/@hardefarogonondo/recipe-for-retention-how-a-data-driven-recommendation-engine-is-spicing-up-user-engagement-for-518fe347a3dd)
 
 ## References
 
 This section lists all the references and resources utilized during the project.
 
 [1] [Generating Personalized Recipes from Historical User Preferences](https://aclanthology.org/D19-1613/)
+
 [2] [ML-Based Collaborative Filtering for Cross-Cultural Music Recommendations](https://cs229.stanford.edu/proj2021spr/report2/82006572.pdf)
+
 [3] [FastAPI](https://fastapi.tiangolo.com/)
+
 [4] [Streamlit](https://streamlit.io/)
+
 [5] [Docker](https://www.docker.com/)
