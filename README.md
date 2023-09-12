@@ -166,6 +166,14 @@ For more in-depth information, a detailed document describing the dataset is ava
 
 [Recipe for Retention: How a Data-Driven Recommendation Engine is Spicing Up User Engagement for Food.com](https://medium.com/@hardefarogonondo/recipe-for-retention-how-a-data-driven-recommendation-engine-is-spicing-up-user-engagement-for-518fe347a3dd)
 
+## Acknowledgment: Pacmann Student Hackathon 2023
+
+This project was developed as part of the Pacmann Student Hackathon 2023, a competitive and enriching event that brought together talented data scientists and developers. We're thrilled to share that our team was honored with the "Best Presentation Award" during the hackathon.
+
+A huge thank you to the organizers, judges, and all participants for making this event an incredible learning experience.
+
+![Best Presentation Award](reports/figures/best_presentation_award.png)
+
 ## References
 
 This section lists all the references and resources utilized during the project.
