@@ -168,11 +168,15 @@ For more in-depth information, a detailed document describing the dataset is ava
 
 ## Acknowledgment: Pacmann Student Hackathon 2023
 
-This project was developed as part of the Pacmann Student Hackathon 2023, a competitive and enriching event that brought together talented data scientists and developers. We're thrilled to share that our team was honored with the "Best Presentation Award" during the hackathon.
+This project was developed as part of the Pacmann Student Hackathon 2023, a competitive and enriching event that brought together talented data scientists and developers.
 
-A huge thank you to the organizers, judges, and all participants for making this event an incredible learning experience.
+We're absolutely thrilled to announce that our project not only received the "Best Presentation Award" but also secured the 1st Place in the Pacmann Student Hackathon 2023. This accolade is a testament to the hard work, dedication, and skill of our incredible team.
 
-![Best Presentation Award](reports/figures/best_presentation_award.png)
+We'd like to express our deepest gratitude to the hackathon organizers, judges, and fellow participants. It was an enriching experience to compete against such talented individuals, and we learned a lot along the journey.
+
+Thank you for making this event a challenging yet rewarding experience!
+
+![1st Winner and Best Presentation Award](reports/figures/1st_winner_and_best_presentation_award.jpg)
 
 ## References
 
