@@ -170,7 +170,7 @@ For more in-depth information, a detailed document describing the dataset is ava
 
 This project was developed as part of the Pacmann Student Hackathon 2023, a competitive and enriching event that brought together talented data scientists and developers.
 
-We're absolutely thrilled to announce that our project not only received the "Best Presentation Award" but also secured the 1st Place in the Pacmann Student Hackathon 2023. This accolade is a testament to the hard work, dedication, and skill of our incredible team.
+We're absolutely thrilled to announce that our project not only received the Best Presentation Award but also secured the 1st Winner in the Pacmann Student Hackathon 2023. This accolade is a testament to the hard work, dedication, and skill of our incredible team.
 
 We'd like to express our deepest gratitude to the hackathon organizers, judges, and fellow participants. It was an enriching experience to compete against such talented individuals, and we learned a lot along the journey.
 
